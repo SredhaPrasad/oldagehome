@@ -1,0 +1,28 @@
+button:hover{
+    background-color: rgb(25, 162, 241);
+    text-align: center;
+    
+
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+}
+.t{
+    align-items: center;
+    text-align: center;
+
+    
+}
+.p{
+    align-content: center;
+    text-align: center;
+   
+
+    
+}
+.u{
+    font-size: large;
+    color: black;
+}

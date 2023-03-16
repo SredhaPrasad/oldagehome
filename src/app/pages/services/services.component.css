@@ -1,0 +1,16 @@
+/* .card{
+    height: 600px;
+    width: 300px;
+    
+
+}
+.row{
+    margin: 80px;
+} */
+.card-title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-text{
+    font-style: oblique;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
